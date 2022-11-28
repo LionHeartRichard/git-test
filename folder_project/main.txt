@@ -1,0 +1,7 @@
+Hello frend!!!
+This my test git-repository.
+
+	Command line git:
+		init - create catalog in current directory;
+		add - add <file_name> or add <.> - keep total folder; 
+€ýa:q
