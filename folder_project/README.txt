@@ -1,4 +1,4 @@
-This repository is treaner git and GitHub resorces!!!
+This repository is trainer git and GitHub resorces!!!
 
 My push test for example and tutorails.
 
