@@ -11,6 +11,6 @@ This my test git-repository.
 		push - deploy repository to the GitHub;
 		status - show status activite git repositories;
 		merge <branch_name> - merge branch repositories;
-		
+		commit -m "name message" - for remember developer and checks change;	
 
 €ýa:q
