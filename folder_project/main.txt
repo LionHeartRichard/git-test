@@ -2,6 +2,15 @@ Hello frend!!!
 This my test git-repository.
 
 	Command line git:
+
 		init - create catalog in current directory;
 		add - add <file_name> or add <.> - keep total folder; 
+		checkout <branch> - specifiead branch for use;
+		branch - specifiead total branch git;
+		
+		push - deploy repository to the GitHub;
+		status - show status activite git repositories;
+		merge <branch_name> - merge branch repositories;
+		
+
 €ýa:q
