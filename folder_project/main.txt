@@ -12,3 +12,7 @@ This my test git-repository.
 		status - show status activite git repositories;
 		merge <branch_name> - merge branch repositories;
 		commit -m "name message" - for remember developer and checks change;	
+
+		diff --cached - show change that be keep in repository
+		log - show message commit and id-commit
+		show - value commit
