@@ -5,12 +5,10 @@ This my test git-repository.
 
 		init - create catalog in current directory;
 		add - add <file_name> or add <.> - keep total folder; 
-		checkout <branch> - specifiead branch for use;
-		branch - specifiead total branch git;
+		checkout <branch> - specified branch for use;
+		branch - specified total branch git;
 		
 		push - deploy repository to the GitHub;
 		status - show status activite git repositories;
 		merge <branch_name> - merge branch repositories;
 		commit -m "name message" - for remember developer and checks change;	
-
-€ýa:q

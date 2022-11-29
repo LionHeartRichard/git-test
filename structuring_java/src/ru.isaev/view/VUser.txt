@@ -1,0 +1,3 @@
+package ru.isaev.view
+
+Class VUser

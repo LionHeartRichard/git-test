@@ -1,0 +1,4 @@
+package ru.isaev.model
+
+Class User
+
