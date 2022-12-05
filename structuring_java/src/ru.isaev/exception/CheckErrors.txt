@@ -1,0 +1,2 @@
+	CheckError class and method for catch exceptions, 
+	errors and shutdown this appendix!!!
